@@ -1,4 +1,4 @@
-#PAYMENT APPLICATION USING C LANGUAGE
+# PAYMENT APPLICATION USING C LANGUAGE
 
 Development environment preparation 
 1. Create modules folders 
