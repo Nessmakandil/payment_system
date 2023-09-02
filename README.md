@@ -24,8 +24,8 @@ Implement the server module
 1. Fill in server.h file with functions' prototypes and typedefs 
 2. Implement server-side accounts' database 
 3. Implement server-side transactions' database 
-4. Implement recieveTransactionData function 
-s. Implement isValidAccount function 
+4. Implement recieveTransactionData function
+s. Implement isValidAccount function
 6. Implement isAmountAvailable function 
 7. Implement saveTransaction function 
 
@@ -33,9 +33,9 @@ Implement the application
 1. Fill in application.h file with functions' prototypes 
 2. Implement appStart function 
 
-Testing the application 
+Testing the application
 1.Transaction approved user story 
-2. Exceed the maximum amount user story 
-3. Insufficient fund user story 
-4. Expired card user story 
+2. Exceed the maximum amount user story
+3. Insufficient fund user story
+4. Expired card user story
 5. Invalid card user story 
