@@ -9,7 +9,7 @@ typedef struct card
     int Month; /* from 1 ---> 12*/
     int Year;
 } card;
-char *getCardHolderName(char *name);
-int getCardExpiryDate(int month, int year);
-
+void getCardHolderName(char *name);
+void getCardExpiryDate(int month, int year);
+void getCardPAN(unsigned int PAN);
 #endif
