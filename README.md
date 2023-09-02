@@ -25,7 +25,7 @@ Implement the server module
 2. Implement server-side accounts' database 
 3. Implement server-side transactions' database 
 4. Implement recieveTransactionData function
-s. Implement isValidAccount function
+5. Implement isValidAccount function
 6. Implement isAmountAvailable function 
 7. Implement saveTransaction function 
 
@@ -34,7 +34,7 @@ Implement the application
 2. Implement appStart function 
 
 Testing the application
-1.Transaction approved user story 
+1. Transaction approved user story
 2. Exceed the maximum amount user story
 3. Insufficient fund user story
 4. Expired card user story
