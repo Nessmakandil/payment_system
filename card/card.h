@@ -2,21 +2,10 @@
 #define CARD_H
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
 typedef enum month 
 {
     Jan = 01,
-    Feb,
-    Mar,
-    Apr,
-    May,
-    Jun,
-    Jul,
-    Aug,
-    Sep,
-    Oct,
-    Nov,
-    Dec
+    Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
 } month;
 typedef struct date
 {
@@ -27,6 +16,7 @@ typedef struct card
 {
     char *name;
     size_t PAN;
+    size_t trans;
     date *Date;
 } card;
 

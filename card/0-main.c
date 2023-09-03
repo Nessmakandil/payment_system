@@ -1,5 +1,5 @@
 #include "card.h"
-
+/*
 card *data_assign(void)
 {
     card *user = malloc(sizeof(card));
@@ -24,4 +24,4 @@ int main(void)
     printf("user's card expiration Date: %d/%d\n", c.mon, c.year);
 
     return (0);
-}
+}*/
